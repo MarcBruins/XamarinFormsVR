@@ -1,6 +1,6 @@
 ﻿using Xamarin.Forms;
 
-namespace XFCardBoard
+namespace XamarinFormsVR
 {
 	public partial class App : Application
 	{

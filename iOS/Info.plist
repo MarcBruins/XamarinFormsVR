@@ -3,11 +3,11 @@
 <plist version="1.0">
 <dict>
 	<key>CFBundleDisplayName</key>
-	<string>XFCardBoardApp</string>
+	<string>XamarinFormsVR</string>
 	<key>CFBundleName</key>
-	<string>XFCardBoardApp</string>
+	<string>XamarinFormsVR</string>
 	<key>CFBundleIdentifier</key>
-	<string>nl.marcbruins.xfcardboardapp</string>
+	<string>nl.marcbruins.xamarinformsvr</string>
 	<key>CFBundleShortVersionString</key>
 	<string>1.0</string>
 	<key>CFBundleVersion</key>

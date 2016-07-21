@@ -5,7 +5,7 @@ using System.Linq;
 using Foundation;
 using UIKit;
 
-namespace XFCardBoardApp.iOS
+namespace XamarinFormsVR.iOS
 {
 	public class Application
 	{

@@ -2,13 +2,13 @@
 
 using Xamarin.Forms;
 
-namespace XFCardBoard
+namespace XamarinFormsVR
 {
 	public class VRPage : ContentPage
 	{
 		public VRPage()
 		{
-			
+			Content = new Label { Text = "Hello ContentView" };
 		}
 	}
 }
